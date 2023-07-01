@@ -7,7 +7,7 @@ function PokemonForm() {
       <h3>Add a Pokemon!</h3>
       <Form
         onSubmit={() => {
-          console.log("submitting form...");
+          console.log("submitting form....");
         }}
       >
         <Form.Group widths="equal">
